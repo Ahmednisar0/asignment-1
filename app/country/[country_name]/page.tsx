@@ -14,7 +14,7 @@ export default function CountryDetails({ params }: { params: { country_name: str
 
   return (
     <div>
-<Link href="http://localhost:3000/">
+<Link href="https://asignment-1-kappa.vercel.app/">
   <div className="inline-block px-4 py-2 mt-5 ml-5 bg-blue-500 text-white font-bold rounded hover:bg-blue-700 cursor-pointer">
     Go to Home
   </div>
